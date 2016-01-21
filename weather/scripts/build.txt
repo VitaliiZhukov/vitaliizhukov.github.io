@@ -2,12 +2,12 @@
 main.js
 ----------------
 angular.js
-jquery.js
-common/common.js
 controllers/main.js
 controllers/currentcity.js
-directives/cities.js
+directives/search.js
 directives/currentcity.js
+controllers/search.js
+controllers/cities.js
 app.js
 angular-route.js
 main.js

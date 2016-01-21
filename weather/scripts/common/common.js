@@ -1,0 +1,1 @@
+function getCelcium(frg){return(frg-273.15).toFixed(1)}function getMmHg(hpa){return(.75*hpa).toFixed(0)}
