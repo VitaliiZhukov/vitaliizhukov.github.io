@@ -10,4 +10,5 @@ controllers/search.js
 controllers/cities.js
 app.js
 angular-route.js
+angular-touch.js
 main.js
