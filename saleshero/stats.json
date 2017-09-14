@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "path---": [
+      "path----3385ee969e438a74aa23.js",
+      "path----3385ee969e438a74aa23.js.map"
+    ],
+    "path---terms": [
+      "path---terms-d910eb723d83061875d9.js",
+      "path---terms-d910eb723d83061875d9.js.map"
+    ],
+    "path---pricing": [
+      "path---pricing-168009464c77e4e8eb56.js",
+      "path---pricing-168009464c77e4e8eb56.js.map"
+    ],
+    "component---src-templates-index-js": [
+      "component---src-templates-index-js-d5d49d35aa822bc17856.js",
+      "component---src-templates-index-js-d5d49d35aa822bc17856.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3bb81968d63173d1b510.js",
+      "component---src-layouts-index-js-3bb81968d63173d1b510.js.map"
+    ],
+    "path---index": [
+      "path---index-8e40fd6efccb8a874790.js",
+      "path---index-8e40fd6efccb8a874790.js.map"
+    ],
+    "path---skills": [
+      "path---skills-0adedf27680a49fafbce.js",
+      "path---skills-0adedf27680a49fafbce.js.map"
+    ],
+    "component---src-templates-default-js": [
+      "component---src-templates-default-js-d9d76248e6066af961fd.js",
+      "component---src-templates-default-js-d9d76248e6066af961fd.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-a28e159dcc17a56ceaaa.js",
+      "path---privacy-a28e159dcc17a56ceaaa.js.map"
+    ],
+    "commons": [
+      "commons-8421537bacb49916a0ab.js",
+      "commons-8421537bacb49916a0ab.js.map"
+    ],
+    "path---resources": [
+      "path---resources-6d82f74a3dbbcd332018.js",
+      "path---resources-6d82f74a3dbbcd332018.js.map"
+    ],
+    "app": [
+      "app-46811d51666974afc19f.js",
+      "app-46811d51666974afc19f.js.map"
+    ]
+  }
+}
