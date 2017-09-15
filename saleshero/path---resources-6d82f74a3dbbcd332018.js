@@ -1,2 +1,2 @@
-webpackJsonp([0xa0a3f3734aef],{"./node_modules/json-loader/index.js!./.cache/json/resources.json":function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Resources"},html:'<p>Some content about <a href="http://saleshero.ai">SalesHero</a></p>'}},pathContext:{slug:"/resources/"}}}});
+webpackJsonp([0xa0a3f3734aef,0x99703cc56f65],{"./node_modules/json-loader/index.js!./.cache/json/resources.json":function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Resources"},html:'<p>Some content about <a href="http://saleshero.ai">SalesHero</a></p>'}},pathContext:{slug:"/resources/"}}}});
 //# sourceMappingURL=path---resources-6d82f74a3dbbcd332018.js.map

@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---": [
-      "path----d0b79b4c7030608f1fd1.js",
-      "path----d0b79b4c7030608f1fd1.js.map"
+      "path----1e7e59cfaea38d8dffb7.js",
+      "path----1e7e59cfaea38d8dffb7.js.map"
     ],
     "path---terms": [
       "path---terms-d910eb723d83061875d9.js",
@@ -13,40 +13,40 @@
       "path---pricing-168009464c77e4e8eb56.js.map"
     ],
     "component---src-templates-index-js": [
-      "component---src-templates-index-js-d5d49d35aa822bc17856.js",
-      "component---src-templates-index-js-d5d49d35aa822bc17856.js.map"
+      "component---src-templates-index-js-3e68ed6defd2d9e67559.js",
+      "component---src-templates-index-js-3e68ed6defd2d9e67559.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b81ab292a6fbeec3d964.js",
-      "component---src-layouts-index-js-b81ab292a6fbeec3d964.js.map"
+      "component---src-layouts-index-js-822c3a6d0276181b036e.js",
+      "component---src-layouts-index-js-822c3a6d0276181b036e.js.map"
     ],
     "path---index": [
-      "path---index-8e40fd6efccb8a874790.js",
-      "path---index-8e40fd6efccb8a874790.js.map"
+      "path---index-3967e44f562248012102.js",
+      "path---index-3967e44f562248012102.js.map"
     ],
     "path---skills": [
       "path---skills-0adedf27680a49fafbce.js",
       "path---skills-0adedf27680a49fafbce.js.map"
     ],
     "component---src-templates-default-js": [
-      "component---src-templates-default-js-d9d76248e6066af961fd.js",
-      "component---src-templates-default-js-d9d76248e6066af961fd.js.map"
+      "component---src-templates-default-js-77843573a0930d5e24c6.js",
+      "component---src-templates-default-js-77843573a0930d5e24c6.js.map"
     ],
     "path---privacy": [
       "path---privacy-a28e159dcc17a56ceaaa.js",
       "path---privacy-a28e159dcc17a56ceaaa.js.map"
     ],
     "commons": [
-      "commons-8421537bacb49916a0ab.js",
-      "commons-8421537bacb49916a0ab.js.map"
+      "commons-d41d8cd98f00b204e980.js",
+      "commons-d41d8cd98f00b204e980.js.map"
     ],
     "path---resources": [
       "path---resources-6d82f74a3dbbcd332018.js",
       "path---resources-6d82f74a3dbbcd332018.js.map"
     ],
     "app": [
-      "app-c488d4d76599246b57f8.js",
-      "app-c488d4d76599246b57f8.js.map"
+      "app-74f7aa4078058ae7aba2.js",
+      "app-74f7aa4078058ae7aba2.js.map"
     ]
   }
 }
