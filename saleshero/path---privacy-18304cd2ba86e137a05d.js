@@ -1,2 +1,0 @@
-webpackJsonp([0x97d0984cce63,0x99703cc56f65],{"./node_modules/json-loader/index.js!./.cache/json/privacy.json":function(a,e){a.exports={data:{markdownRemark:{frontmatter:{title:"Privacy Page"},html:'<p>This is a simple privacy page. <a href="http://saleshero.ai">Link</a>.\n<a href="https://google.com">Google</a></p>'}},pathContext:{slug:"/privacy/"}}}});
-//# sourceMappingURL=path---privacy-18304cd2ba86e137a05d.js.map

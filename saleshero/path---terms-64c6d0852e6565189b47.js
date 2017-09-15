@@ -1,2 +1,0 @@
-webpackJsonp([89335538696419,0x99703cc56f65],{"./node_modules/json-loader/index.js!./.cache/json/terms.json":function(e,t){e.exports={data:{markdownRemark:{frontmatter:{title:"Terms and Conditions"},html:"<p>This is terms page.</p>"}},pathContext:{slug:"/terms/"}}}});
-//# sourceMappingURL=path---terms-64c6d0852e6565189b47.js.map
