@@ -1,40 +1,40 @@
 {
   "assetsByChunkName": {
     "path---": [
-      "path----9ab3dc1f6e90aa192ad7.js",
-      "path----9ab3dc1f6e90aa192ad7.js.map"
+      "path----d93c0655374421d8f0f3.js",
+      "path----d93c0655374421d8f0f3.js.map"
     ],
     "path---terms": [
-      "path---terms-d910eb723d83061875d9.js",
-      "path---terms-d910eb723d83061875d9.js.map"
+      "path---terms-64c6d0852e6565189b47.js",
+      "path---terms-64c6d0852e6565189b47.js.map"
     ],
     "component---src-templates-index-js": [
-      "component---src-templates-index-js-7b748e7eb0eabbf1f082.js",
-      "component---src-templates-index-js-7b748e7eb0eabbf1f082.js.map"
+      "component---src-templates-index-js-7f6d00c4863b6eff9cc4.js",
+      "component---src-templates-index-js-7f6d00c4863b6eff9cc4.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f1fcf40b046a1303976b.js",
-      "component---src-layouts-index-js-f1fcf40b046a1303976b.js.map"
+      "component---src-layouts-index-js-4b452c8444f7602c1b01.js",
+      "component---src-layouts-index-js-4b452c8444f7602c1b01.js.map"
     ],
     "path---index": [
-      "path---index-c288b67e6a49ca3b097f.js",
-      "path---index-c288b67e6a49ca3b097f.js.map"
+      "path---index-b30c4e9ae8e5e193d58d.js",
+      "path---index-b30c4e9ae8e5e193d58d.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-77843573a0930d5e24c6.js",
       "component---src-templates-default-js-77843573a0930d5e24c6.js.map"
     ],
     "path---privacy": [
-      "path---privacy-a28e159dcc17a56ceaaa.js",
-      "path---privacy-a28e159dcc17a56ceaaa.js.map"
+      "path---privacy-18304cd2ba86e137a05d.js",
+      "path---privacy-18304cd2ba86e137a05d.js.map"
     ],
     "commons": [
       "commons-d41d8cd98f00b204e980.js",
       "commons-d41d8cd98f00b204e980.js.map"
     ],
     "app": [
-      "app-4933d368875e34bde80d.js",
-      "app-4933d368875e34bde80d.js.map"
+      "app-3dd4483f2f36adaaf45c.js",
+      "app-3dd4483f2f36adaaf45c.js.map"
     ]
   }
 }

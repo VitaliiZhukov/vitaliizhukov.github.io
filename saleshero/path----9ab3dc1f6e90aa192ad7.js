@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886,0x99703cc56f65],{"./node_modules/json-loader/index.js!./.cache/json/layout-index.json":function(e,o){e.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{scope:null,title:"Terms of Service"},fields:{slug:"/terms/"}}},{node:{frontmatter:{scope:null,title:"Privacy policy"},fields:{slug:"/privacy/"}}},{node:{frontmatter:{scope:null,title:"Home Page"},fields:{slug:"/"}}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----9ab3dc1f6e90aa192ad7.js.map
