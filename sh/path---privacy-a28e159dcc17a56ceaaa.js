@@ -1,2 +1,0 @@
-webpackJsonp([0x97d0984cce63,0x99703cc56f65],{"./node_modules/json-loader/index.js!./.cache/json/privacy.json":function(e,o){e.exports={data:{markdownRemark:{frontmatter:{title:"Privacy policy"},html:"<p>Terms of service go here!</p>"}},pathContext:{slug:"/privacy/"}}}});
-//# sourceMappingURL=path---privacy-a28e159dcc17a56ceaaa.js.map
