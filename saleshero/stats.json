@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-949d039eef4a4a17aa04.js",
-      "component---src-templates-landing-index-js-949d039eef4a4a17aa04.js.map"
+      "component---src-templates-landing-index-js-ba5b01171b4a628b267a.js",
+      "component---src-templates-landing-index-js-ba5b01171b4a628b267a.js.map"
     ],
     "path---": [
       "path----22ccfbc616c534a20a2e.js",
@@ -13,16 +13,16 @@
       "path---terms-d910eb723d83061875d9.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6ee13e25cafe23577698.js",
-      "component---src-layouts-index-js-6ee13e25cafe23577698.js.map"
+      "component---src-layouts-index-js-f481832d42e986707c2f.js",
+      "component---src-layouts-index-js-f481832d42e986707c2f.js.map"
     ],
     "component---src-templates-home-index-js": [
-      "component---src-templates-home-index-js-ae1abf2e829377357615.js",
-      "component---src-templates-home-index-js-ae1abf2e829377357615.js.map"
+      "component---src-templates-home-index-js-eecccf556958475957a9.js",
+      "component---src-templates-home-index-js-eecccf556958475957a9.js.map"
     ],
     "path---index": [
-      "path---index-cc661a6d656082859bd3.js",
-      "path---index-cc661a6d656082859bd3.js.map"
+      "path---index-05de18a50401d59cf885.js",
+      "path---index-05de18a50401d59cf885.js.map"
     ],
     "path---skills": [
       "path---skills-9953fcec03c45c469ba7.js",
@@ -33,8 +33,8 @@
       "component---src-templates-default-js-af7275bb4261739da09f.js.map"
     ],
     "component---src-templates-skills-index-js": [
-      "component---src-templates-skills-index-js-18e285346006ad236378.js",
-      "component---src-templates-skills-index-js-18e285346006ad236378.js.map"
+      "component---src-templates-skills-index-js-889fa9157c9ba8e58435.js",
+      "component---src-templates-skills-index-js-889fa9157c9ba8e58435.js.map"
     ],
     "path---privacy": [
       "path---privacy-a28e159dcc17a56ceaaa.js",
