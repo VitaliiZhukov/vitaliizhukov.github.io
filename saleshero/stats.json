@@ -1,40 +1,40 @@
 {
   "assetsByChunkName": {
     "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-eb6d8fb07503359d8f95.js",
-      "component---src-templates-landing-index-js-eb6d8fb07503359d8f95.js.map"
+      "component---src-templates-landing-index-js-264f74a5d68637af6f52.js",
+      "component---src-templates-landing-index-js-264f74a5d68637af6f52.js.map"
     ],
     "path---": [
-      "path----fd6a6531358779a97c50.js",
-      "path----fd6a6531358779a97c50.js.map"
+      "path----5809ec117ca3012ad1a0.js",
+      "path----5809ec117ca3012ad1a0.js.map"
     ],
     "path---terms": [
       "path---terms-abe781fb26b5170dcb82.js",
       "path---terms-abe781fb26b5170dcb82.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-440c953a094d2c4c2edc.js",
-      "component---src-layouts-index-js-440c953a094d2c4c2edc.js.map"
+      "component---src-layouts-index-js-bf62b6c84bc0ba792104.js",
+      "component---src-layouts-index-js-bf62b6c84bc0ba792104.js.map"
     ],
     "component---src-templates-home-index-js": [
-      "component---src-templates-home-index-js-e905dca196b7128f171f.js",
-      "component---src-templates-home-index-js-e905dca196b7128f171f.js.map"
+      "component---src-templates-home-index-js-4c61ab96e752c2486e04.js",
+      "component---src-templates-home-index-js-4c61ab96e752c2486e04.js.map"
     ],
     "path---index": [
       "path---index-bd160c7c03016cef3ca2.js",
       "path---index-bd160c7c03016cef3ca2.js.map"
     ],
     "path---skills": [
-      "path---skills-dcb58ab8c8be7ec87375.js",
-      "path---skills-dcb58ab8c8be7ec87375.js.map"
+      "path---skills-046a576b7a9e3077af5d.js",
+      "path---skills-046a576b7a9e3077af5d.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-af7275bb4261739da09f.js",
       "component---src-templates-default-js-af7275bb4261739da09f.js.map"
     ],
     "component---src-templates-skills-index-js": [
-      "component---src-templates-skills-index-js-5d4c53279049060feadd.js",
-      "component---src-templates-skills-index-js-5d4c53279049060feadd.js.map"
+      "component---src-templates-skills-index-js-8dfb12919b43f7c75469.js",
+      "component---src-templates-skills-index-js-8dfb12919b43f7c75469.js.map"
     ],
     "path---privacy": [
       "path---privacy-351bf52400d0cedb50e1.js",
