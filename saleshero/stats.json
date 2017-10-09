@@ -1,24 +1,24 @@
 {
   "assetsByChunkName": {
     "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-eb35b991a3c3e11422d7.js",
-      "component---src-templates-landing-index-js-eb35b991a3c3e11422d7.js.map"
+      "component---src-templates-landing-index-js-264f74a5d68637af6f52.js",
+      "component---src-templates-landing-index-js-264f74a5d68637af6f52.js.map"
     ],
     "path---": [
-      "path----8b2f5b15799a38b33399.js",
-      "path----8b2f5b15799a38b33399.js.map"
+      "path----5809ec117ca3012ad1a0.js",
+      "path----5809ec117ca3012ad1a0.js.map"
     ],
     "path---terms": [
       "path---terms-abe781fb26b5170dcb82.js",
       "path---terms-abe781fb26b5170dcb82.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-0a2973d551ddf4ceb6f9.js",
-      "component---src-layouts-index-js-0a2973d551ddf4ceb6f9.js.map"
+      "component---src-layouts-index-js-683aaa0763f50832674d.js",
+      "component---src-layouts-index-js-683aaa0763f50832674d.js.map"
     ],
     "component---src-templates-home-index-js": [
-      "component---src-templates-home-index-js-0187f9af0a51633c3bd1.js",
-      "component---src-templates-home-index-js-0187f9af0a51633c3bd1.js.map"
+      "component---src-templates-home-index-js-72c2c82ac5b71e1b243e.js",
+      "component---src-templates-home-index-js-72c2c82ac5b71e1b243e.js.map"
     ],
     "path---index": [
       "path---index-bd160c7c03016cef3ca2.js",
@@ -29,27 +29,27 @@
       "path---skills-c9b0440b45df7af853d5.js.map"
     ],
     "component---src-templates-default-js": [
-      "component---src-templates-default-js-452f7ca815f7f6138dc1.js",
-      "component---src-templates-default-js-452f7ca815f7f6138dc1.js.map"
+      "component---src-templates-default-js-2ca38c884b088c5c69d6.js",
+      "component---src-templates-default-js-2ca38c884b088c5c69d6.js.map"
     ],
     "component---src-templates-skills-index-js": [
-      "component---src-templates-skills-index-js-b5fb399f7f1230d43b51.js",
-      "component---src-templates-skills-index-js-b5fb399f7f1230d43b51.js.map"
+      "component---src-templates-skills-index-js-88454e79aec041ad3be9.js",
+      "component---src-templates-skills-index-js-88454e79aec041ad3be9.js.map"
     ],
     "path---privacy": [
       "path---privacy-351bf52400d0cedb50e1.js",
       "path---privacy-351bf52400d0cedb50e1.js.map"
     ],
     "commons": [
-      "commons-fbcc3a5cee04d0daa509.js",
+      "commons-4ac6b80b4acecc471732.js",
       "build-js-styles.css",
-      "commons-fbcc3a5cee04d0daa509.js.map",
+      "commons-4ac6b80b4acecc471732.js.map",
       "build-js-styles.css.map"
     ],
     "app": [
-      "app-a61e2d19b69ab4bfc3d1.js",
+      "app-4bc60f372fcb57a39199.js",
       "build-js-styles.css",
-      "app-a61e2d19b69ab4bfc3d1.js.map",
+      "app-4bc60f372fcb57a39199.js.map",
       "build-js-styles.css.map"
     ],
     "path---lp-ai-assistant-linkedin": [
