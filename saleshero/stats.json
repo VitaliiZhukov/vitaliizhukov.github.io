@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-2fb4da9dd35b3d9dd9ad.js",
-      "component---src-templates-landing-index-js-2fb4da9dd35b3d9dd9ad.js.map"
+      "component---src-templates-landing-index-js-ea85e040efc744438686.js",
+      "component---src-templates-landing-index-js-ea85e040efc744438686.js.map"
     ],
     "path---": [
       "path----b9a87d312f81bef13eca.js",
@@ -17,8 +17,8 @@
       "path---terms-acf1518553d1ac39ab83.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-0324996946ef5132b615.js",
-      "component---src-layouts-index-js-0324996946ef5132b615.js.map"
+      "component---src-layouts-index-js-fd977a0849afda1004e2.js",
+      "component---src-layouts-index-js-fd977a0849afda1004e2.js.map"
     ],
     "component---src-templates-home-index-js": [
       "component---src-templates-home-index-js-d717f504c2c67d5c9cb1.js",
@@ -33,8 +33,8 @@
       "path---skills-edc5ab58b031400a0fd0.js.map"
     ],
     "component---src-pages-admin-index-jsx": [
-      "component---src-pages-admin-index-jsx-d6f7788ae0baa43f52bd.js",
-      "component---src-pages-admin-index-jsx-d6f7788ae0baa43f52bd.js.map"
+      "component---src-pages-admin-index-jsx-a12fe05c98994553c1de.js",
+      "component---src-pages-admin-index-jsx-a12fe05c98994553c1de.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-2ca38c884b088c5c69d6.js",
@@ -49,9 +49,9 @@
       "path---privacy-60385fd458252ae8f40c.js.map"
     ],
     "commons": [
-      "commons-0ef6fcb34859f95ca8d4.js",
+      "commons-732a10ffa008d9c06d46.js",
       "build-js-styles.css",
-      "commons-0ef6fcb34859f95ca8d4.js.map",
+      "commons-732a10ffa008d9c06d46.js.map",
       "build-js-styles.css.map"
     ],
     "path---admin": [
