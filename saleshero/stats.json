@@ -1,20 +1,20 @@
 {
   "assetsByChunkName": {
     "path---lp-v-1-ai-assistant-for-sales-reps": [
-      "path---lp-v-1-ai-assistant-for-sales-reps-d6e2546fb116878e3dca.js",
-      "path---lp-v-1-ai-assistant-for-sales-reps-d6e2546fb116878e3dca.js.map"
+      "path---lp-v-1-ai-assistant-for-sales-reps-f6c0df507fef43e838d9.js",
+      "path---lp-v-1-ai-assistant-for-sales-reps-f6c0df507fef43e838d9.js.map"
     ],
     "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-362123da2960ff72d056.js",
-      "component---src-templates-landing-index-js-362123da2960ff72d056.js.map"
+      "component---src-templates-landing-index-js-6b3a732257626102b50d.js",
+      "component---src-templates-landing-index-js-6b3a732257626102b50d.js.map"
     ],
     "path---": [
       "path----0fc4c280db001a844b66.js",
       "path----0fc4c280db001a844b66.js.map"
     ],
     "path---lp-v-1-ai-assistant-linkedin": [
-      "path---lp-v-1-ai-assistant-linkedin-c6ae9837651c1d8d9301.js",
-      "path---lp-v-1-ai-assistant-linkedin-c6ae9837651c1d8d9301.js.map"
+      "path---lp-v-1-ai-assistant-linkedin-4c3d4e330f7f6a5a0f7e.js",
+      "path---lp-v-1-ai-assistant-linkedin-4c3d4e330f7f6a5a0f7e.js.map"
     ],
     "path---terms": [
       "path---terms-acf1518553d1ac39ab83.js",
@@ -25,8 +25,8 @@
       "component---src-layouts-index-js-3b727a2fe2654a5b230b.js.map"
     ],
     "component---src-templates-landing-v-1-index-js": [
-      "component---src-templates-landing-v-1-index-js-3d30ec8cbe9b83f4c418.js",
-      "component---src-templates-landing-v-1-index-js-3d30ec8cbe9b83f4c418.js.map"
+      "component---src-templates-landing-v-1-index-js-e12f53ea523884eaafdb.js",
+      "component---src-templates-landing-v-1-index-js-e12f53ea523884eaafdb.js.map"
     ],
     "component---src-templates-home-index-js": [
       "component---src-templates-home-index-js-3c7494e0f7f75385f8ec.js",
@@ -41,8 +41,8 @@
       "path---skills-218b4587ed842382a0da.js.map"
     ],
     "component---src-pages-admin-index-jsx": [
-      "component---src-pages-admin-index-jsx-fdf128b950f7dd264c5f.js",
-      "component---src-pages-admin-index-jsx-fdf128b950f7dd264c5f.js.map"
+      "component---src-pages-admin-index-jsx-e8b80d87d0f69acaaac8.js",
+      "component---src-pages-admin-index-jsx-e8b80d87d0f69acaaac8.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-54664389a1e617c25e5e.js",
@@ -73,12 +73,12 @@
       "build-js-styles.css.map"
     ],
     "path---lp-ai-assistant-linkedin": [
-      "path---lp-ai-assistant-linkedin-04ff2c3f468bb59bbffd.js",
-      "path---lp-ai-assistant-linkedin-04ff2c3f468bb59bbffd.js.map"
+      "path---lp-ai-assistant-linkedin-4340c3a81b3f951dddc4.js",
+      "path---lp-ai-assistant-linkedin-4340c3a81b3f951dddc4.js.map"
     ],
     "path---lp-ai-assistant-for-sales-reps": [
-      "path---lp-ai-assistant-for-sales-reps-5ef43d8e9f7c62968afd.js",
-      "path---lp-ai-assistant-for-sales-reps-5ef43d8e9f7c62968afd.js.map"
+      "path---lp-ai-assistant-for-sales-reps-a8ed0d260105a3da6160.js",
+      "path---lp-ai-assistant-for-sales-reps-a8ed0d260105a3da6160.js.map"
     ]
   }
 }
