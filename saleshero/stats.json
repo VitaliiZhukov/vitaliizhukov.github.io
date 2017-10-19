@@ -4,13 +4,21 @@
       "path---lp-v-1-ai-assistant-for-sales-reps-f6c0df507fef43e838d9.js",
       "path---lp-v-1-ai-assistant-for-sales-reps-f6c0df507fef43e838d9.js.map"
     ],
-    "component---src-templates-landing-index-js": [
-      "component---src-templates-landing-index-js-6b3a732257626102b50d.js",
-      "component---src-templates-landing-index-js-6b3a732257626102b50d.js.map"
+    "path---lp-v-2-ai-assistant-for-sales-reps": [
+      "path---lp-v-2-ai-assistant-for-sales-reps-b57bd4c9a804d73d538f.js",
+      "path---lp-v-2-ai-assistant-for-sales-reps-b57bd4c9a804d73d538f.js.map"
+    ],
+    "path---lp-v-4-ai-assistant-for-sales-reps": [
+      "path---lp-v-4-ai-assistant-for-sales-reps-cbe3613d603d63b75e7c.js",
+      "path---lp-v-4-ai-assistant-for-sales-reps-cbe3613d603d63b75e7c.js.map"
+    ],
+    "path---lp-v-3-ai-assistant-linkedin": [
+      "path---lp-v-3-ai-assistant-linkedin-de2b18f878e03d4c5c91.js",
+      "path---lp-v-3-ai-assistant-linkedin-de2b18f878e03d4c5c91.js.map"
     ],
     "path---": [
-      "path----7bd20217dce178ceda4f.js",
-      "path----7bd20217dce178ceda4f.js.map"
+      "path----96e00d64b11b4fbc289d.js",
+      "path----96e00d64b11b4fbc289d.js.map"
     ],
     "path---lp-v-1-ai-assistant-linkedin": [
       "path---lp-v-1-ai-assistant-linkedin-4c3d4e330f7f6a5a0f7e.js",
@@ -20,17 +28,25 @@
       "path---terms-acf1518553d1ac39ab83.js",
       "path---terms-acf1518553d1ac39ab83.js.map"
     ],
+    "component---src-templates-landing-v-3-index-js": [
+      "component---src-templates-landing-v-3-index-js-34fd4e18b3bb326df1c3.js",
+      "component---src-templates-landing-v-3-index-js-34fd4e18b3bb326df1c3.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d97fe7af937cb4e6732d.js",
-      "component---src-layouts-index-js-d97fe7af937cb4e6732d.js.map"
+      "component---src-layouts-index-js-958b850229dc834d267e.js",
+      "component---src-layouts-index-js-958b850229dc834d267e.js.map"
     ],
     "component---src-templates-landing-v-1-index-js": [
-      "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js",
-      "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js.map"
+      "component---src-templates-landing-v-1-index-js-e12f53ea523884eaafdb.js",
+      "component---src-templates-landing-v-1-index-js-e12f53ea523884eaafdb.js.map"
     ],
     "component---src-templates-home-index-js": [
       "component---src-templates-home-index-js-3c7494e0f7f75385f8ec.js",
       "component---src-templates-home-index-js-3c7494e0f7f75385f8ec.js.map"
+    ],
+    "component---src-templates-landing-v-4-index-js": [
+      "component---src-templates-landing-v-4-index-js-929023a59f6b8a8ca3f2.js",
+      "component---src-templates-landing-v-4-index-js-929023a59f6b8a8ca3f2.js.map"
     ],
     "path---index": [
       "path---index-44232567b7d2da862e02.js",
@@ -40,9 +56,13 @@
       "path---skills-218b4587ed842382a0da.js",
       "path---skills-218b4587ed842382a0da.js.map"
     ],
+    "path---lp-v-3-ai-assistant-for-sales-reps": [
+      "path---lp-v-3-ai-assistant-for-sales-reps-1cd0653ea6bbef67a1c5.js",
+      "path---lp-v-3-ai-assistant-for-sales-reps-1cd0653ea6bbef67a1c5.js.map"
+    ],
     "component---src-pages-admin-index-jsx": [
-      "component---src-pages-admin-index-jsx-04110332560c349a0354.js",
-      "component---src-pages-admin-index-jsx-04110332560c349a0354.js.map"
+      "component---src-pages-admin-index-jsx-f934bffa01a1d09ba10b.js",
+      "component---src-pages-admin-index-jsx-f934bffa01a1d09ba10b.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-54664389a1e617c25e5e.js",
@@ -56,29 +76,33 @@
       "path---privacy-4843a4b6b27ded7a478f.js",
       "path---privacy-4843a4b6b27ded7a478f.js.map"
     ],
+    "component---src-templates-landing-v-2-index-js": [
+      "component---src-templates-landing-v-2-index-js-9823b3549db2f68e0905.js",
+      "component---src-templates-landing-v-2-index-js-9823b3549db2f68e0905.js.map"
+    ],
     "commons": [
       "commons-bc507664b96334f99074.js",
       "build-js-styles.css",
       "commons-bc507664b96334f99074.js.map",
       "build-js-styles.css.map"
     ],
+    "path---lp-v-4-ai-assistant-linkedin": [
+      "path---lp-v-4-ai-assistant-linkedin-c25d6d8971be1889216a.js",
+      "path---lp-v-4-ai-assistant-linkedin-c25d6d8971be1889216a.js.map"
+    ],
+    "path---lp-v-2-ai-assistant-linkedin": [
+      "path---lp-v-2-ai-assistant-linkedin-f8db73592d03991e8ae7.js",
+      "path---lp-v-2-ai-assistant-linkedin-f8db73592d03991e8ae7.js.map"
+    ],
     "path---admin": [
       "path---admin-a0e39f21c11f6a62c5ab.js",
       "path---admin-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-0f14ee02fa34c87cbad2.js",
+      "app-be0c7bb525ce255785eb.js",
       "build-js-styles.css",
-      "app-0f14ee02fa34c87cbad2.js.map",
+      "app-be0c7bb525ce255785eb.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---lp-ai-assistant-linkedin": [
-      "path---lp-ai-assistant-linkedin-4340c3a81b3f951dddc4.js",
-      "path---lp-ai-assistant-linkedin-4340c3a81b3f951dddc4.js.map"
-    ],
-    "path---lp-ai-assistant-for-sales-reps": [
-      "path---lp-ai-assistant-for-sales-reps-a8ed0d260105a3da6160.js",
-      "path---lp-ai-assistant-for-sales-reps-a8ed0d260105a3da6160.js.map"
     ]
   }
 }
