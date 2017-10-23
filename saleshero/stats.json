@@ -13,8 +13,8 @@
       "path---lp-v-4-ai-assistant-for-sales-reps-bb2017e4bfcb3a98e081.js.map"
     ],
     "path---": [
-      "path----a44e7b9be7cc05d622be.js",
-      "path----a44e7b9be7cc05d622be.js.map"
+      "path----9ee8fe2411b021baa246.js",
+      "path----9ee8fe2411b021baa246.js.map"
     ],
     "path---lp-v-1-ai-assistant-linkedin": [
       "path---lp-v-1-ai-assistant-linkedin-4c3d4e330f7f6a5a0f7e.js",
@@ -25,24 +25,28 @@
       "path---terms-acf1518553d1ac39ab83.js.map"
     ],
     "component---src-templates-landing-v-3-index-js": [
-      "component---src-templates-landing-v-3-index-js-63baa3129d28ae7a00c7.js",
-      "component---src-templates-landing-v-3-index-js-63baa3129d28ae7a00c7.js.map"
+      "component---src-templates-landing-v-3-index-js-8445b080c65455cd76ea.js",
+      "component---src-templates-landing-v-3-index-js-8445b080c65455cd76ea.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6a3f7e1c04b7fe37a8a9.js",
-      "component---src-layouts-index-js-6a3f7e1c04b7fe37a8a9.js.map"
+      "component---src-layouts-index-js-03640451621e823a5ad2.js",
+      "component---src-layouts-index-js-03640451621e823a5ad2.js.map"
     ],
     "component---src-templates-landing-v-1-index-js": [
       "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js",
       "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js.map"
     ],
+    "path---lp-ew-wfdsa": [
+      "path---lp-ew-wfdsa-ac5998352c89cea6517b.js",
+      "path---lp-ew-wfdsa-ac5998352c89cea6517b.js.map"
+    ],
     "component---src-templates-home-index-js": [
-      "component---src-templates-home-index-js-4721b6b23f9a84435057.js",
-      "component---src-templates-home-index-js-4721b6b23f9a84435057.js.map"
+      "component---src-templates-home-index-js-a10164602b12dd06d6fc.js",
+      "component---src-templates-home-index-js-a10164602b12dd06d6fc.js.map"
     ],
     "component---src-templates-landing-v-4-index-js": [
-      "component---src-templates-landing-v-4-index-js-562146e75ab4f7ecc1be.js",
-      "component---src-templates-landing-v-4-index-js-562146e75ab4f7ecc1be.js.map"
+      "component---src-templates-landing-v-4-index-js-a04c907be6c9a6038218.js",
+      "component---src-templates-landing-v-4-index-js-a04c907be6c9a6038218.js.map"
     ],
     "path---index": [
       "path---index-44232567b7d2da862e02.js",
@@ -57,12 +61,12 @@
       "path---lp-v-3-ai-assistant-for-sales-reps-3c617e518c0aac28caec.js.map"
     ],
     "component---src-pages-admin-index-jsx": [
-      "component---src-pages-admin-index-jsx-43025e08f453eb4c13b0.js",
-      "component---src-pages-admin-index-jsx-43025e08f453eb4c13b0.js.map"
+      "component---src-pages-admin-index-jsx-909d8597f9edf916d6d3.js",
+      "component---src-pages-admin-index-jsx-909d8597f9edf916d6d3.js.map"
     ],
     "component---src-templates-default-js": [
-      "component---src-templates-default-js-54664389a1e617c25e5e.js",
-      "component---src-templates-default-js-54664389a1e617c25e5e.js.map"
+      "component---src-templates-default-js-de661587905d01cf1888.js",
+      "component---src-templates-default-js-de661587905d01cf1888.js.map"
     ],
     "component---src-templates-skills-index-js": [
       "component---src-templates-skills-index-js-f2f92a9f00921ce1cab2.js",
@@ -95,9 +99,9 @@
       "path---admin-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-9925e3e7b75d9a813f3d.js",
+      "app-a6c79871bf26a2f5e6be.js",
       "build-js-styles.css",
-      "app-9925e3e7b75d9a813f3d.js.map",
+      "app-a6c79871bf26a2f5e6be.js.map",
       "build-js-styles.css.map"
     ]
   }

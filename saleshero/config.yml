@@ -19,7 +19,6 @@ collections:
         widget: object
         fields:
           - {name: title, label: Title, widget: string}
-          - {name: description, label: Description, widget: markdown}
           - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
           - {name: buttonText, label: ButtonText, widget: string}
           - {name: bgImage, label: BgImage, widget: string}
@@ -41,7 +40,8 @@ collections:
         fields:
           - {name: title, label: Title, widget: string}
           - {name: description, label: Description, widget: markdown}
-          - {name: action, label: Action, widget: string}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: ButtonText, widget: string}
 
   - name: "skills"
     label: "Skills"
