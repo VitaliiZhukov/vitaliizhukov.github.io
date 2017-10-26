@@ -1,0 +1,146 @@
+backend:
+  name: github
+  repo: vitaliizhukov/gatsby-netlify
+  branch: master
+
+media_folder: "website/static/images" # Media files will be stored in the repo under images/uploads
+publish_mode: editorial_workflow
+public_folder: "images"
+collections:
+  - name: "landingpage_v3"
+    label: "LandingPageV3"
+    folder: "website/src/pages/lp_v3"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - name: mainBlock
+        label: mainBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: ButtonText, widget: string}
+          - {name: bgImage, label: BgImage, widget: string}
+      - name: features
+        label: Features
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - name: items
+            label: Items
+            widget: list
+            fields:
+              - {name: description, label: Text, widget: string}
+              - {name: icon, label: Icon, widget: string}
+              - {name: color, label: Color, widget: string}
+      - name: extraBlock
+        label: extraBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: ButtonText, widget: string}
+
+  - name: "skills"
+    label: "Skills"
+    folder: "website/src/pages"
+    create: false
+    slug: "{{slug}}"
+    filter:
+      field: title
+      value: Skills
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - name: titleBlock
+        label: titleBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+      - name: skillsets
+        label: Skillsets
+        widget: list
+        fields:
+          - {name: image, label: BackgroundImage, widget: string}
+          - {name: isColumn, label: IsColumn, widget: boolean}
+          - name: skills
+            label: Skills
+            widget: list
+            fields:
+              - {name: title, label: SkillTitle, widget: string}
+              - {name: description, label: Text, widget: markdown}
+              - {name: icon, label: Icon, widget: string}
+              - {name: color, label: Color, widget: string}
+      - name: security
+        label: securityBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: text, label: Text, widget: markdown}
+      - name: extraBlock
+        label: extraBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: ButtonText, widget: string}
+
+  - name: "home"
+    label: "Home"
+    folder: "website/src/pages"
+    create: false
+    slug: "{{slug}}"
+    filter:
+      field: title
+      value: Home Page
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - name: mainBlock
+        label: MainBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: buttonText, widget: string}
+          - {name: message, label: RobinsMessage, widget: string}
+      - name: features
+        label: Features
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: bgImage, label: BgImage, widget: string}
+          - name: items
+            label: Items
+            widget: list
+            fields:
+              - {name: title, label: Title, widget: string}
+              - {name: description, label: Text, widget: string}
+              - {name: icon, label: Icon, widget: string}
+              - {name: color, label: Color, widget: string}
+
+      - name: extraBlock
+        label: extraBlock
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
+          - {name: buttonText, label: ButtonText, widget: string}
+
+      - name: steps
+        label: Steps
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: string}
+          - {name: description, label: Description, widget: markdown}
+          - {name: successText, label: SuccessText, widget: string}
+          - name: items
+            label: Items
+            widget: list
+            fields:
+              - {name: text, label: StepText, widget: string}
