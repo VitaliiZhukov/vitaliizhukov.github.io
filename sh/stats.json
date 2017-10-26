@@ -12,9 +12,17 @@
       "path---lp-v-4-ai-assistant-for-sales-reps-bb2017e4bfcb3a98e081.js",
       "path---lp-v-4-ai-assistant-for-sales-reps-bb2017e4bfcb3a98e081.js.map"
     ],
+    "component---src-templates-landing-index-js": [
+      "component---src-templates-landing-index-js-fac2eeb3c073a8b4befc.js",
+      "component---src-templates-landing-index-js-fac2eeb3c073a8b4befc.js.map"
+    ],
+    "component---src-templates-landing-v-5-index-js": [
+      "component---src-templates-landing-v-5-index-js-7e125d969471315688fc.js",
+      "component---src-templates-landing-v-5-index-js-7e125d969471315688fc.js.map"
+    ],
     "path---": [
-      "path----719ec2b78b6ef14ed7bb.js",
-      "path----719ec2b78b6ef14ed7bb.js.map"
+      "path----85acb185d4eb71657bcb.js",
+      "path----85acb185d4eb71657bcb.js.map"
     ],
     "path---lp-v-1-ai-assistant-linkedin": [
       "path---lp-v-1-ai-assistant-linkedin-4c3d4e330f7f6a5a0f7e.js",
@@ -25,28 +33,24 @@
       "path---terms-acf1518553d1ac39ab83.js.map"
     ],
     "component---src-templates-landing-v-3-index-js": [
-      "component---src-templates-landing-v-3-index-js-8445b080c65455cd76ea.js",
-      "component---src-templates-landing-v-3-index-js-8445b080c65455cd76ea.js.map"
+      "component---src-templates-landing-v-3-index-js-d613a6e82cb990fabccd.js",
+      "component---src-templates-landing-v-3-index-js-d613a6e82cb990fabccd.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e44a0c26b6be827aaecc.js",
-      "component---src-layouts-index-js-e44a0c26b6be827aaecc.js.map"
+      "component---src-layouts-index-js-b406abbed4b7fff0e564.js",
+      "component---src-layouts-index-js-b406abbed4b7fff0e564.js.map"
     ],
     "component---src-templates-landing-v-1-index-js": [
       "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js",
       "component---src-templates-landing-v-1-index-js-eb4cd4273f364a5915e5.js.map"
     ],
-    "path---lp-ew-wfdsa": [
-      "path---lp-ew-wfdsa-ac5998352c89cea6517b.js",
-      "path---lp-ew-wfdsa-ac5998352c89cea6517b.js.map"
-    ],
     "component---src-templates-home-index-js": [
-      "component---src-templates-home-index-js-c5e15faeb2c102da772d.js",
-      "component---src-templates-home-index-js-c5e15faeb2c102da772d.js.map"
+      "component---src-templates-home-index-js-a10164602b12dd06d6fc.js",
+      "component---src-templates-home-index-js-a10164602b12dd06d6fc.js.map"
     ],
     "component---src-templates-landing-v-4-index-js": [
-      "component---src-templates-landing-v-4-index-js-a04c907be6c9a6038218.js",
-      "component---src-templates-landing-v-4-index-js-a04c907be6c9a6038218.js.map"
+      "component---src-templates-landing-v-4-index-js-99b6c36fc5012cc17d03.js",
+      "component---src-templates-landing-v-4-index-js-99b6c36fc5012cc17d03.js.map"
     ],
     "path---index": [
       "path---index-44232567b7d2da862e02.js",
@@ -61,8 +65,8 @@
       "path---lp-v-3-ai-assistant-for-sales-reps-3c617e518c0aac28caec.js.map"
     ],
     "component---src-pages-admin-index-jsx": [
-      "component---src-pages-admin-index-jsx-f688c392f01cfc617e25.js",
-      "component---src-pages-admin-index-jsx-f688c392f01cfc617e25.js.map"
+      "component---src-pages-admin-index-jsx-87218251c3bae218bb10.js",
+      "component---src-pages-admin-index-jsx-87218251c3bae218bb10.js.map"
     ],
     "component---src-templates-default-js": [
       "component---src-templates-default-js-de661587905d01cf1888.js",
@@ -81,10 +85,14 @@
       "component---src-templates-landing-v-2-index-js-9823b3549db2f68e0905.js.map"
     ],
     "commons": [
-      "commons-9b12344dda1f38a1fea8.js",
+      "commons-b0667d6aafa22a91290c.js",
       "build-js-styles.css",
-      "commons-9b12344dda1f38a1fea8.js.map",
+      "commons-b0667d6aafa22a91290c.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---lp-v-5-ai-assistant-for-sales-reps": [
+      "path---lp-v-5-ai-assistant-for-sales-reps-8d487d93805125937109.js",
+      "path---lp-v-5-ai-assistant-for-sales-reps-8d487d93805125937109.js.map"
     ],
     "path---lp-v-4-ai-assistant-linkedin": [
       "path---lp-v-4-ai-assistant-linkedin-2f675c80b59434b14dc7.js",
@@ -99,10 +107,18 @@
       "path---admin-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-5aa8454f0048910ce695.js",
+      "app-54e99e14c5c6d1c68785.js",
       "build-js-styles.css",
-      "app-5aa8454f0048910ce695.js.map",
+      "app-54e99e14c5c6d1c68785.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---lp-ai-assistant-linkedin": [
+      "path---lp-ai-assistant-linkedin-ae4b813cc61a94af35a7.js",
+      "path---lp-ai-assistant-linkedin-ae4b813cc61a94af35a7.js.map"
+    ],
+    "path---lp-ai-assistant-for-sales-reps": [
+      "path---lp-ai-assistant-for-sales-reps-67ed08563b28921f5131.js",
+      "path---lp-ai-assistant-for-sales-reps-67ed08563b28921f5131.js.map"
     ]
   }
 }
