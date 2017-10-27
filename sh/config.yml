@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: vitaliizhukov/gatsby-netlify
+  repo: saleshero-inc/saleshero-website
   branch: master
+  site_id: www.saleshero.ai
 
 media_folder: "website/static/images" # Media files will be stored in the repo under images/uploads
 publish_mode: editorial_workflow
