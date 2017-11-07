@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{402:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Page not found",path:"/404",message:"I coudn't find the page<br/>you are looking for",note:"You might find here, what you want:",buttonText:"Home"}}},pathContext:{slug:"/404/"}}}});
+//# sourceMappingURL=path---404-47d529a53f9c35f22f30.js.map

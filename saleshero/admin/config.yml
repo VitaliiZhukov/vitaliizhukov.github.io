@@ -1,19 +1,26 @@
 backend:
   name: github
-  repo: VitaliiZhukov/vitaliizhukov.github.io
+  repo: saleshero-inc/saleshero-website
   branch: master
 
 media_folder: "website/static/images" # Media files will be stored in the repo under images/uploads
 publish_mode: editorial_workflow
 public_folder: "images"
 collections:
-  - name: "landingpage_v3"
-    label: "LandingPageV3"
-    folder: "website/src/pages/lp_v3"
+  - name: "landingpage"
+    label: "Landing Page V0"
+    folder: "website/src/pages/lp"
     create: true
     slug: "{{slug}}"
+    filter:
+      field: landingTemplate
+      value: Landing
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {name: path, label: Landing Url, widget: string, default: "/lp/"}
+      - {name: description, label: Description Metatag, widget: string}
+      - {name: keywords, label: Keywords (with comma), widget: string}
+      - {name: landingTemplate, label: Template, default: "Landing", widget: "hidden"}
       - name: mainBlock
         label: mainBlock
         widget: object
@@ -21,17 +28,16 @@ collections:
           - {name: title, label: Title, widget: string}
           - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
           - {name: buttonText, label: ButtonText, widget: string}
-          - {name: bgImage, label: BgImage, widget: string}
       - name: features
         label: Features
         widget: object
         fields:
           - {name: title, label: Title, widget: string}
           - name: items
-            label: Items
+            label: Features List
             widget: list
             fields:
-              - {name: description, label: Text, widget: string}
+              - {name: text, label: Feature Description, widget: string}
               - {name: icon, label: Icon, widget: string}
               - {name: color, label: Color, widget: string}
       - name: extraBlock
@@ -42,6 +48,41 @@ collections:
           - {name: description, label: Description, widget: markdown}
           - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
           - {name: buttonText, label: ButtonText, widget: string}
+
+  - name: "landingpage_v5"
+    label: "LandingPageV5"
+    folder: "website/src/pages/lp"
+    create: true
+    slug: "{{slug}}"
+    filter:
+      field: landingTemplate
+      value: Landing_v5
+    fields:
+      - {label: Title, name: title, widget: string, tagname: h1}
+      - {name: path, label: Landing Url, widget: string, default: "/lp/"}
+      - {name: description, label: Description Metatag, widget: string}
+      - {name: keywords, label: Keywords (with comma), widget: string}
+      - {name: landingTemplate, label: Template, default: "Landing_v5", widget: "hidden"}
+      - name: mainBlock
+        label: Title Block
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: textArea}
+          - {name: inputPlaceholder, label: Input Placeholder, widget: string}
+          - {name: buttonText, label: Button Text, widget: string}
+          # - {name: bgImage, label: Background Image url, default: "backgrounds/sales_rep_couch.jpg", widget: string}
+      - name: features
+        label: Features
+        widget: object
+        fields:
+          - {name: title, label: Title, widget: textArea}
+          - name: items
+            label: Features
+            widget: list
+            fields:
+              - {name: description, label: Feature Text, widget: string}
+              - {name: icon, label: Icon, widget: string}
+              - {name: color, label: Icon Color, widget: colorSelector}
 
   - name: "skills"
     label: "Skills"
@@ -52,42 +93,44 @@ collections:
       field: title
       value: Skills
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: Title, name: title, widget: string, tagname: h1}
+      - {name: description, label: Description Metatag, widget: string}
+      - {name: keywords, label: Keywords (with comma), widget: string}
       - name: titleBlock
         label: titleBlock
         widget: object
         fields:
-          - {name: title, label: Title, widget: string}
-          - {name: description, label: Description, widget: markdown}
+          - {name: title, label: Page Title, widget: string}
+          - {name: description, label: Page Description, widget: textArea}
       - name: skillsets
         label: Skillsets
         widget: list
         fields:
-          - {name: image, label: BackgroundImage, widget: string}
-          - {name: isColumn, label: IsColumn, widget: boolean}
+          - {name: image, label: Skillset Background Image, widget: string}
+          # - {name: isColumn, label: IsColumn, widget: boolean}
           - name: skills
             label: Skills
             widget: list
             fields:
-              - {name: title, label: SkillTitle, widget: string}
-              - {name: description, label: Text, widget: markdown}
-              - {name: icon, label: Icon, widget: string}
-              - {name: color, label: Color, widget: string}
+              - {name: title, label: Skill Title, widget: string}
+              - {name: description, label: Skill Description, widget: textArea}
+              - {name: icon, label: Material UI Icon, widget: string}
+              - {name: color, label: Icon Color, widget: colorSelector}
       - name: security
-        label: securityBlock
+        label: Security Section
         widget: object
         fields:
           - {name: title, label: Title, widget: string}
-          - {name: description, label: Description, widget: markdown}
-          - {name: text, label: Text, widget: markdown}
+          - {name: description, label: Description, widget: textArea}
+          - {name: text, label: Text, widget: textArea}
       - name: extraBlock
-        label: extraBlock
+        label: Bottom Section
         widget: object
         fields:
           - {name: title, label: Title, widget: string}
-          - {name: description, label: Description, widget: markdown}
-          - {name: inputPlaceholder, label: InputPlaceholder, widget: string}
-          - {name: buttonText, label: ButtonText, widget: string}
+          - {name: description, label: Description, widget: textArea}
+          - {name: inputPlaceholder, label: Input Placeholder, widget: string}
+          - {name: buttonText, label: Button Text, widget: string}
 
   - name: "home"
     label: "Home"
@@ -99,6 +142,8 @@ collections:
       value: Home Page
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {name: description, label: Description Metatag, widget: string}
+      - {name: keywords, label: Keywords (with comma), widget: string}
       - name: mainBlock
         label: MainBlock
         widget: object
@@ -121,7 +166,7 @@ collections:
               - {name: title, label: Title, widget: string}
               - {name: description, label: Text, widget: string}
               - {name: icon, label: Icon, widget: string}
-              - {name: color, label: Color, widget: string}
+              - {name: color, label: Color, widget: colorSelector}
 
       - name: extraBlock
         label: extraBlock
