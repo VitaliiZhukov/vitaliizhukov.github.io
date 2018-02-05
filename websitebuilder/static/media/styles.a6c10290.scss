@@ -1,0 +1,14 @@
+@import '../../../../styles/constants.scss';
+
+.container {
+  padding: 16px 32px;
+  width: 100%;
+  color: White;
+  transition: all $transitionTime $timing;
+  border-bottom: 1px solid $darkBorderColor;
+
+  cursor: pointer;
+  &:hover {
+    background-color: $hoveredColor;
+  }
+}

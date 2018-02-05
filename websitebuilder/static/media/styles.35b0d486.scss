@@ -1,0 +1,18 @@
+@import '../../../../styles/constants.scss';
+
+.sectionEditor__container {
+  width: 100%;
+  color: White;
+
+  .sectionEditor__top {
+    padding: 16px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid $darkBorderColor;
+  }
+
+  .sectionEditor__content {
+    width: 100%;
+    text-align: left;
+  }
+}

@@ -1,0 +1,28 @@
+@import '../../../../styles/constants.scss';
+
+.container {
+  position: absolute;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(45deg);
+  opacity: .3;
+  right: -29px;
+  bottom: -12px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #01A848;
+  color: White;
+  &:hover {
+    opacity: 1;
+    right: -24px;
+  }
+
+  transition: all $transitionTime $timing;
+  z-index: 1;
+
+  .content {
+    transform: rotate(45deg);
+  }
+}

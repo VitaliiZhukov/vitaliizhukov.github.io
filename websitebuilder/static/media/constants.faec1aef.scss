@@ -1,0 +1,40 @@
+$labelColor: #818F96;
+$headerColor: #2F2F2F;
+$hoveredColor: #404040;
+$darkBorderColor: #222;
+
+$timing: ease-out;
+$transitionTime: .5s;
+
+// Sizes
+$screen-sm: 720px !default;
+$screen-sm-min: $screen-sm !default;
+
+$screen-md: 996px !default;
+$screen-md-min: $screen-md !default;
+
+$screen-lg: 1216px !default;
+$screen-lg-min: $screen-lg !default;
+
+$screen-xl: 1720px !default;
+$screen-xl-min: $screen-xl !default;
+
+$screen-xs-max: ($screen-sm-min - 1) !default;
+$screen-sm-max: ($screen-md-min - 1) !default;
+$screen-md-max: ($screen-lg-min - 1) !default;
+$screen-lg-max: ($screen-xl-min - 1) !default;
+
+.content__container {
+  width: 100%;
+
+  @media (min-width: $screen-xl) {
+  }
+  @media (min-width: $screen-lg) and (max-width: $screen-lg-max) {
+  }
+  @media (min-width: $screen-md) and (max-width: $screen-md-max) {
+  }
+  @media (min-width: $screen-sm) and (max-width: $screen-sm-max) {
+  }
+  @media (max-width: $screen-xs-max) {
+  }
+}

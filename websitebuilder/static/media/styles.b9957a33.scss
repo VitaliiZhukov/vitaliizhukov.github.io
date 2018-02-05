@@ -1,0 +1,21 @@
+
+.editor__container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex-grow: 1;
+  display: flex;
+  background-color: Lavender;
+
+  .preview {
+    flex-grow: 1;
+  }
+
+  .sidebar {
+    flex-basis: 300px;
+    border-top: 1px solid #222;
+  }
+}

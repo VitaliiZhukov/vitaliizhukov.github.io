@@ -1,0 +1,33 @@
+.preview__container {
+  background-color: #222;
+  max-height: 100%;
+  overflow-y: scroll;
+  &::-webkit-scrollbar
+  {
+    width: 10px;
+    background-color: transparent;
+  }
+  &::-webkit-scrollbar-track
+  {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 8px;
+    background-color: transparent;
+  }
+  &::-webkit-scrollbar-thumb
+  {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+  }
+}
+
+.browser__container {
+  margin: 0 auto;
+  margin-top: 32px;
+  width: 90%;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.section__container {
+  position: relative;
+}
